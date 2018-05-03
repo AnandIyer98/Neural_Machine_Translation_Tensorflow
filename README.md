@@ -20,7 +20,12 @@ http://www.statmt.org/wmt16/translation-task.html
 1x Jupyter Notebook:
   - shows the results of using the network
 
-  
+## Architecture
+Sequence2Sequence Model.
+- Bidirectional RNN (LSTM or GRU)
+- Bahdanau Attention
+- Adam Optimizer
+- Beam Search or Greedy Decoding
 
 
 
