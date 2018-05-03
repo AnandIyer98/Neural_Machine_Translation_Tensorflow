@@ -5,7 +5,8 @@ Implementation of a NMT model using tensorflow.
 Tensorflow 1.8
 
 ## Code
-3x .py files:
+3x .py files
+
 1x Jupyter Notebook
 
 
