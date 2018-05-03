@@ -15,7 +15,7 @@ http://www.statmt.org/wmt16/translation-task.html
 
 ## Code
 3x .py files:
-  - model class + necessary for preprocessing and training
+  - model class + necessary for preprocessing and training \
 1x Jupyter Notebook:
   - shows the results of using the network
 
