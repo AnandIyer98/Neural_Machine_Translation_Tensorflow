@@ -1,5 +1,5 @@
 # Neural_Machine_Translation_Tensorflow
-Implementation of a NMT model using tensorflow.
+Implementation of a NMT model using the latest version of tensorflow.
 The model translates from english to german.
 
 ## Prerequisites
