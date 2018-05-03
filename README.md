@@ -3,7 +3,10 @@ Implementation of a NMT model using tensorflow.
 The model translates from english to german.
 
 ## Prerequisites
-Tensorflow 1.8
+- Tensorflow 1.8
+- Nltk
+- Numpy
+- Pandas
 
 ## Dataset
 European Parliament Proceedings Parallel Corpus 1996-2011 - German_to_English
