@@ -21,7 +21,7 @@ http://www.statmt.org/wmt16/translation-task.html
   - shows the results of using the network
 
 ## Architecture
-Sequence2Sequence Model.
+**Sequence2Sequence Model.**
 - Bidirectional RNN (LSTM or GRU)
 - Bahdanau Attention
 - Adam Optimizer
