@@ -6,13 +6,12 @@ The model translates from english to german.
 Tensorflow 1.8
 
 ## Code
-3x .py files
-
+3x .py files \
 1x Jupyter Notebook
 
 ## Dataset
 European Parliament Proceedings Parallel Corpus 1996-2011 - German_to_English
-http://www.statmt.org/wmt16/translation-task.html
+http://www.statmt.org/wmt16/translation-task.html \
 http://www.statmt.org/wmt16/translation-task.html
 
 
