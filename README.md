@@ -1,7 +1,6 @@
 # :earth_africa: Neural_Machine_Translation_Tensorflow
-Implementation of a NMT model using the latest version of tensorflow.
-The model translates from english to german. \
-:uk: :de:
+Implementation of a NMT model using the latest version of tensorflow. \
+The model translates from english to german. :uk: :arrow_right: :de:
 
 ## Prerequisites
 - Tensorflow 1.8
