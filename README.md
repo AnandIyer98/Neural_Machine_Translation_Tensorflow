@@ -27,9 +27,9 @@ http://www.statmt.org/wmt16/translation-task.html
 - Adam Optimizer
 - Beam Search or Greedy Decoding
 
-## Some Results
-```
+## Results
 
+```
 Actual Text:
 resumption of the session
 
@@ -60,7 +60,6 @@ frau präsidentin , zur geschäftsordnung .
 
 Created translation:
 frau präsidentin , zur geschäftsordnung .
-
 ```
 
 
