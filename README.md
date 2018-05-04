@@ -29,6 +29,7 @@ http://www.statmt.org/wmt16/translation-task.html
 
 ## Some Results
 '''
+
 Actual Text:
 resumption of the session
 
@@ -59,6 +60,7 @@ frau präsidentin , zur geschäftsordnung .
 
 Created translation:
 frau präsidentin , zur geschäftsordnung .
+
 '''
 
 
