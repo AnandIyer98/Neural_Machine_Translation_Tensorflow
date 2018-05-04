@@ -27,7 +27,39 @@ http://www.statmt.org/wmt16/translation-task.html
 - Adam Optimizer
 - Beam Search or Greedy Decoding
 
+## Some Results
+'''
+Actual Text:
+resumption of the session
 
+Actual translation:
+wiederaufnahme der sitzungsperiode
+
+Created translation:
+wiederaufnahme der sitzungsperiode
+
+
+
+Actual Text: 
+( the house rose and observed a minute ' s silence )
+
+Actual translation:
+( das parlament erhebt sich zu einer schweigeminute . )
+
+Created translation:
+( das parlament erhebt der einer einer schweigeminute . )
+
+
+
+Actual Text:
+madam president , on a point of order .
+
+Actual translation:
+frau präsidentin , zur geschäftsordnung .
+
+Created translation:
+frau präsidentin , zur geschäftsordnung .
+'''
 
 
 
